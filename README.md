@@ -1,37 +1,9 @@
 ﻿
-**Mini-Project – Recent Open Source Project Lab**
 
-**(ITL704)**
-
-**MINI PROJECT REPORT ON**
 
 **Pretrained Translator for Python Package Index**
 
-**B. E. Information Technology**
 
-By
-
-**Ashna Kabsuri	09**
-
-**Arpan Dhamelia	10** 
-
-**Arya Doshi	11** 
-
-**Gideon Harpanahalli	12** 
-
-Mentor:
-
-**Ms. Alvina Alphonso**
-
-Assistant Professor
-
-![](Aspose.Words.794107e1-044c-40a2-b6bc-71444aa9bde3.001.png)
-
-Department of Information Technology St. Francis Institute of Technology (Engineering College)
-
-2022-23
-` `PAGE 5
-![](Aspose.Words.794107e1-044c-40a2-b6bc-71444aa9bde3.002.png)
 # **Index**
 
 
